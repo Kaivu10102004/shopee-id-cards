@@ -1,0 +1,9 @@
+{
+  "name": "shopee-id-card-reader",
+  "private": true,
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "jsdom": "^23.0.1",
+    "playwright": "^1.63.0"
+  }
+}
